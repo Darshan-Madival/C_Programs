@@ -1,0 +1,96 @@
+c is statically typed language
+c is modular language:modular means we can save the file for future use
+c is procedure oriented language
+c is portable language
+c is called mid level language 
+c is not perfectly platform independent but we say platform independent
+c is mother of all programming language
+------------------------------------------------------------------------------------
+keywords:predefined words in c,compiler will known the meaning of this keywords
+there are 32 keywords in c
+c-88 has 32 keywords in 1998
+c-99 has 32+4=37 keywors in 1999
+c-11 has 37+7=44 keywords in 2011
+32 keywords as follows:
+int 
+float 
+double
+char
+signed
+unsigned
+short
+long 
+volatile
+const
+auto
+extern
+static 
+register
+sizeof
+typedef
+if 
+else
+switch
+case
+break
+continue
+defalult
+do 
+while
+goto
+for 
+return
+enum
+struct
+union
+void
+----------------------------------------------------------------------------------
+Identifiers:
+Rules for identifiers:
+1.you can only use a To z and A to Z and 0 to 9 and _
+2.name can't start with the digit 
+3.it can't be keywords
+4.you can't use white space
+5.Identifiers are case sensitive
+-----------------------------------------------------------------------------------
+Literals:
+literal is value assigned to a constant and variable.
+char='9';-character Literals
+---------------------------------------------------------------------------------
+Data Types:
+1.primitive data type/primary/predefined
+2.non primitive data type/secondary/user defined
+
+---primitive datatype------given by dennis ritchie 
+16bit               
+1.int-2byte
+2.float-4byte
+3.char-1byte
+4.double-8byte
+
+32bit 
+1.int-4byte
+2.float-4byte
+3.char-1byte
+4.double-8byte
+(void datatype) given by ANSI-(void has no size)
+ANSI-American National Standard Institute
+
+---------------------------------------------------------------------------------
+modifiers:
+There are two types of modifiers:
+1.sign
+2.size
+
+1.sign:
+there are two types in sign modifiers:
+1.signed(-ve and +ve numbers)
+2.unsigned(only +ve numbers)
+
+2.size:
+there are two types in size modifiers:
+1.short(2 bytes for all architecture)
+2.long(2byte-16bit,4byte-32bit,8byte-64bit)
+
+
+
